@@ -40,10 +40,9 @@
 <p align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=6ba3i&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=6ba3i&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=6ba3i&layout=compact&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=6ba3i&layout=compact&langs_count=4&theme=highcontrast)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=6ba3i&theme=highcontrast&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 
 <p align="center">
   <sub>Open to: work, collaborations, and interesting problems.</sub>
