@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I’m Idriss</h1>
 <p align="center">
   <b>Python | JS | AI Systems</b><br/>
-  <sub>Example: systems, tooling, testing, and AI infra</sub>
 </p>
 
 <p align="center">
